@@ -1,7 +1,8 @@
-Pygame es un conjunto de módulos del lenguaje Python que permiten la creación de videojuegos en dos dimensiones de una manera sencilla. Está orientado al manejo de sprites.
+Editando desde rama develop
+Pygame es un conjunto de mï¿½dulos del lenguaje Python que permiten la creaciï¿½n de videojuegos en dos dimensiones de una manera sencilla. Estï¿½ orientado al manejo de sprites.
 
-Gracias al lenguaje, se puede prototipar y desarrollar rápidamente. Esto se puede comprobar en las competiciones que se disputan online, donde es cada vez más usado. Los resultados pueden llegar a ser profesionales.
+Gracias al lenguaje, se puede prototipar y desarrollar rï¿½pidamente. Esto se puede comprobar en las competiciones que se disputan online, donde es cada vez mï¿½s usado. Los resultados pueden llegar a ser profesionales.
 
-También puede utilizarse para crear otros programas multimedia o interfaces gráficas de usuario. Pygame está basado en la librería SDL 1.2, una alternativa más actual de SDL en Python podría ser Py-SDL2, que implementa varias mejoras respecto a Pygame.
+Tambiï¿½n puede utilizarse para crear otros programas multimedia o interfaces grï¿½ficas de usuario. Pygame estï¿½ basado en la librerï¿½a SDL 1.2, una alternativa mï¿½s actual de SDL en Python podrï¿½a ser Py-SDL2, que implementa varias mejoras respecto a Pygame.
 
 Funciona como interfaz de las bibliotecas SDL.
